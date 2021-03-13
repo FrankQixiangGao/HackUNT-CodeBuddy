@@ -1,0 +1,24 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "npm for codebuddy",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrankQixiangGao/HackUNT-CodeBuddy.git"
+  },
+  "author": "FrankGao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrankQixiangGao/HackUNT-CodeBuddy/issues"
+  },
+  "homepage": "https://github.com/FrankQixiangGao/HackUNT-CodeBuddy#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.5.0",
+    "react-redux": "^7.2.2",
+    "redux": "^4.0.5"
+  }
+}
